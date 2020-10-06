@@ -8,6 +8,8 @@
 # TODO: Définissez vos fonction ici
 
 
+
+
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
 
