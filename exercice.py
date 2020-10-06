@@ -4,7 +4,7 @@
 # TODO: Importez vos modules ici
 import math
 import sys
-sys.path.insert(1, "")
+#sys.path.insert(1, "file")
 
 
 # TODO: Définissez vos fonction ici
