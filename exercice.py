@@ -5,7 +5,7 @@
 import math
 import sys
 #sys.path.insert(1, "file")
-from c04_ch6
+from c04_ch6_exercices.exercice
 
 # TODO: Définissez vos fonction ici
 def calcul_volume_et_masse (axe_a=2, axe_b=4, axe_c=2, masse_volumique=10) :
