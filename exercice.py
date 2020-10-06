@@ -19,5 +19,5 @@ if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
     print(calcul_volume_et_masse(axe_a=7))
     (lambda sentence: frequence(sentence))
-    #print(frequence(phrase))
+    #print(frequence("phrase"))
     pass
