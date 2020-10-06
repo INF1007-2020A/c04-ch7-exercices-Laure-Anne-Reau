@@ -4,6 +4,7 @@
 # TODO: Importez vos modules ici
 import math
 import sys
+sys.path.insert
 
 
 # TODO: Définissez vos fonction ici
