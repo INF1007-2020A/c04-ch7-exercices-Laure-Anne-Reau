@@ -15,5 +15,5 @@ def calcul_volume_et_masse (axe_a, axe_b, axe_c, masse_volumique) :
 
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
-    données = input("Veuillez entre vos trois demis-ax")
+    données = input("Veuillez entre vos trois demi-axes et ")
     pass
