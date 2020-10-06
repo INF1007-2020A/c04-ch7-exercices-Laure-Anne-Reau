@@ -8,7 +8,8 @@ import math
 # TODO: Définissez vos fonction ici
 def calcul_volume_et_masse (axe_a, axe_b, axe_c, masse_volumique) :
     Volume = 4/3 * math.pi *axe_a * axe_b * axe_c
-    Masse = masse_volumique
+    Masse = masse_volumique * Volume
+    
 
 
 
