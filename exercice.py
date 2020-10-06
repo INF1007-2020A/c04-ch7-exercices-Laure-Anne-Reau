@@ -15,7 +15,6 @@ def calcul_volume_et_masse (axe_a=2, axe_b=4, axe_c=2, masse_volumique=p) :
 
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
-    données = input("Veuillez entre vos trois demi-axes et la masse volumique, séparés par une virgule :")
     print(calcul_volume_et_masse(données))
     
     pass
